@@ -1,0 +1,3 @@
+Project: Xfinity Billing Guide
+Author: Insurance Bill Help
+Purpose: Informational billing clarity
